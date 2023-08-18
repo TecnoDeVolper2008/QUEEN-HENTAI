@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['94740179629', 'Tecno Official²⁰²³', true],
+  ['94729787750', 'Kawwa Official²⁰²³', true], 
   [''] 
 ] //Number of owners
 
@@ -47,19 +47,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '👑ᴋɪɴɢ-ᴛᴇᴄɴᴏ⚡️'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
+global.packname = '👑ᴋɪɴɢ-ᴛᴇᴄɴᴏ⚡️ ɢᴇᴀɴᴀʀᴀᴛᴇ ᴮʸ ᴷᴬᵂᴰᴴᴵᵀᴴᴬ ᴺᴵᴿᴹᴬᴸ 💝' 
+global.author = '💝 ɢᴇᴀɴᴀʀᴀᴛᴇ ᴮʸ ᴷᴬᵂᴰᴴᴵᵀᴴᴬ ᴺᴵᴿᴹᴬᴸ 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.fgsc = 'https://t.me/Tecno_EHI_Teem' 
+global.fgyt = 'https://t.me/Tecno_EHI_Teem'
+global.fgpyp = 'https://t.me/Tecno_EHI_Teem'
+global.fglog = 'https://ibb.co/9h59P7r' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
+global.wait = '*☘️ 𝚄𝚙𝚕𝚘𝚊𝚍𝚒𝚗𝚐 𝚝𝚘 Whatsapp⚡️-ɢᴇᴀɴᴀʀᴀᴛᴇ ᴮʸ ᴷᴬᵂᴰᴴᴵᵀᴴᴬ ᴺᴵᴿᴹᴬᴸ*'
 global.rwait = '🇱🇰'
 global.dmoji = '🤣'
 global.done = '👍'
